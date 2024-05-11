@@ -14,3 +14,22 @@ Once a code is deployed to Production, we use monitoring tools like ngios are
 used to check the health of production servers.
 Splunk based alerts inform the admins of any issues or exceptions in production
 ----------------------------------------------------------------------------------------------------------------------
+Pipeline: User-defined model of a CD pipeline. The pipeline's code defines the entire build process, which includes building, testing, and delivering an application
+
+------------------------------------------------------------------------------------------------------------------------
+Version Control System tools. Eg.: git.
+Continuous Integration tools. Eg.: Jenkins
+Continuous Testing tools. Eg.: Selenium
+Configuration Management and Deployment tools. Eg.:Puppet, Chef, Ansible
+Continuous Monitoring tool. Eg.: Nagios
+Containerization tools. Eg.: Docker
+-------------------------------------------------------------------------------------------------------------------------------------
+
+DevOps experience with hands on Terraform, Ansible, CI CD pipeline implementation, Harness, Docker, and Kubernetes
+Experienced with infrastructure as code & Configuration management with tools like Terraform, Ansible etc.
+- Must To Have Skills:Substantial experience and know-how of GCP - Cloud Run, K8s, VMs, etc.
+- Good To Have Skills:Experience with container orchestration platforms such as Kubernetes and Docker Swarm 
+-infrastructure as code tools such as Terraform and CloudFormation.
+- Strong understanding of GCP cloud technology .
+- Experience with security best practices and tools
+- Must have Experience with Python scripting languages .
